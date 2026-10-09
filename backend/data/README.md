@@ -1,0 +1,1 @@
+Runtime JSON files are stored here. `cache/` and `portfolios/` are created automatically. Sectivia's source snapshot is saved to `sectivia/` on first successful fetch. Do not place secrets in data files.

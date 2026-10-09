@@ -1,0 +1,1 @@
+Place a downloaded Sectivia JSON snapshot here as `sectivia-supply-chain.json` if you want to run with a local snapshot. The backend can also fetch the configured public URL in `.env` and save a snapshot automatically.
